@@ -69,7 +69,7 @@ Configured an extended ACL intended to restrict guest network access to the IT a
 
 ## Project Files
 
-- `Project02_Small_Business_Network.pkt` — Cisco Packet Tracer project file
+- `Small business network.pkt` — Cisco Packet Tracer project file
 - `network-topology.png` — Network topology diagram
 
 ## Project Purpose
